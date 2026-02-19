@@ -62,6 +62,8 @@ afiapass-java-sdk/
 ├── src/test/java/             <-- Unit & Integration tests
 └── pom.xml                    <-- Maven Dependencies
 
+
+```
 ⚙️ Key Features
 📂 Automated Tax-Splitting (Soroban)
 
