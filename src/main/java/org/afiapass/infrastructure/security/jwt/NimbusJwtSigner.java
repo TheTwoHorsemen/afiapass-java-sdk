@@ -8,7 +8,6 @@ import com.nimbusds.jwt.JWTClaimsSet;
 import com.nimbusds.jwt.SignedJWT;
 import org.afiapass.core.domain.data.models.Permit;
 import org.afiapass.core.ports.outbound.TokenSigner;
-import org.afiapass.infrastructure.security.KeyManager; // <-- Added missing import
 
 import java.nio.ByteBuffer;
 import java.nio.CharBuffer;
