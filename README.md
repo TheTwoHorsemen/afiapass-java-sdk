@@ -110,10 +110,11 @@ Prerequisites
 
 Installation
 Bash
-
-git clone [https://github.com/TheTwoHorsemen/afiapass-java-sdk.git](https://github.com/TheTwoHorsemen/afiapass-java-sdk.git)
-cd afiapass-java-sdk
-mvn clean install
+<pre>
+    git clone [https://github.com/TheTwoHorsemen/afiapass-java-sdk.git](https://github.com/TheTwoHorsemen/afiapass-java-sdk.git)
+    cd afiapass-java-sdk
+    mvn clean install
+</pre>
 
 🗺️ Roadmap
 
